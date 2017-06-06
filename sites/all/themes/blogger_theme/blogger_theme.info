@@ -9,6 +9,7 @@ scripts[] = js/plugins.js
 scripts[] = js/global.js
 scripts[] = js/flexslider.js
 scripts[] = js/flexslider-home.js
+scripts[] = js/wow.min.js
 regions[sidebar_first]  = First Sidebar
 regions[search_block]   = Search Block
 regions[header]         = Header
